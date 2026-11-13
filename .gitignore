@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Expo generated files
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Native build output
+/android/app/debug
+/android/app/profile
+/android/app/release
+/ios/build/
+
+# Editor and operating system files
+.idea/
+*.iml
+.DS_Store
+
+# Logs and test output
+*.log
+coverage/

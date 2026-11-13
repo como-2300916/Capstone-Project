@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "AquaGuard",
+    "slug": "aquaguard-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.aquaguard.mobile"
+    },
+    "ios": {
+      "bundleIdentifier": "com.aquaguard.mobile"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
